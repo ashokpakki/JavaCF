@@ -40,6 +40,5 @@ public class CFExample {
         map.remove(3);
         System.out.println(map);
 
-
     }
 }
